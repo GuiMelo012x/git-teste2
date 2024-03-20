@@ -57,7 +57,7 @@ Clique na imagem e vá para o site do Letterboxd.
 [![Logo do Letterbox](https://a.ltrbxd.com/logos/letterboxd-mac-icon.png)](https://letterboxd.com)
 
 ## Códigos
-### Código Hello World
+### Código de Somar
 ```python
 def soma(a,b):
     print('Esta função está somando A com B')
