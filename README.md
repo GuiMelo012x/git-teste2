@@ -69,7 +69,9 @@ def soma(a,b):
 - [x] Tarefa 1 
 - [ ] Tarefa 2
 - [x] Tarefa 3
-- [ ] Tarefa 4
+* [ ] Tarefa 4
+1. [ ] Tarefa 5
+2. [x] Tarefa 6
 
 ##### Outro Título - h6
 
