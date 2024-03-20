@@ -33,15 +33,21 @@ Lista Ordenada:
 
 #### Imagem Local
 
-Imagem local seria quando você tem o arquivo dentro de uma pasta no seu repositório.
+Imagem local é quando você tem o arquivo no seu repositório local.
 
 ![Imagem de um Cachorro](img/Kisuq.jpg)
 
 #### Imagem Externa
 
-Imagem externa seria quando você pega um link da internet.
+Imagem externa é quando você pega um link da internet.
 
 ![Foto de um gatinho vestido de Goku](https://img.ws.mms.shopee.com.br/1d4e1b6e47bf91314734d31d9849a06c)
+
+
+## Links
+
+[Google](https://google.com)
+
 
 ##### Outro Título - h6
 
