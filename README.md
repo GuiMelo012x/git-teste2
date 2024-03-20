@@ -50,6 +50,9 @@ Imagem externa é quando você pega um link da internet.
 * [https://youtube.com](https://youtube.com)
 * Perfil: https://github.com/GuiMelo012x
 
+## Inserindo Imagens com Links
+
+[![Logo do Letterbox](https://a.ltrbxd.com/logos/letterboxd-mac-icon.png)](https://letterboxd.com)
 
 ##### Outro Título - h6
 
