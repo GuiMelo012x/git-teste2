@@ -14,7 +14,7 @@ Aqui, duas "#" significa que é como se fosse um h2.
 
 _Apenas **esta parte do texto está combinado**. Esta está apenas em itálico._
 
-### Testando Listas
+### Testando Listas - h3
 
 Lista Não Ordenada:
 * Preto
@@ -23,7 +23,10 @@ Lista Não Ordenada:
 
 Lista Ordenada:
 1. Python
+    1. If e Else
+    2. Switch
 2. Java
+    2. POO
 3. C++
 
 
