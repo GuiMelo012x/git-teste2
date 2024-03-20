@@ -66,10 +66,10 @@ def soma(a,b):
 
 ## Task List 
 
-- [x] Tarefa 1 - Concluída.
-- [] Tarefa 2 - A fazer.
-* [x] Tarefa 3 - Concluída.
-4. [] Tarefa 4 - No aguardo da tarefa 2.
+- [x] Tarefa 1 
+- [] Tarefa 2
+[x] Tarefa 3
+[] Tarefa 4
 
 ##### Outro Título - h6
 
