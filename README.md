@@ -14,7 +14,7 @@ Aqui, duas "#" significa que é como se fosse um h2.
 
 _Apenas **esta parte do texto está combinado**. Esta está apenas em itálico._
 
-### Testando Listas - h3
+## Testando Listas - h2
 
 Lista Não Ordenada:
 * Preto
@@ -28,6 +28,10 @@ Lista Ordenada:
 2. Java
     1. POO
 3. C++
+
+## Testando Imagens
+
+![Imagem de um Cachorro](img/Kisuq.jpg)
 
 
 ##### Outro Título - h6
