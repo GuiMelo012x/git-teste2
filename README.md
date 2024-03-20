@@ -26,7 +26,7 @@ Lista Ordenada:
     1. If e Else
     2. Switch
 2. Java
-    2. POO
+    1. POO
 3. C++
 
 
