@@ -58,11 +58,18 @@ Clique na imagem e vá para o site do Letterboxd.
 
 ## Códigos
 ### Código de Soma
-```
+```python
 def soma(a,b):
     print('Esta função está somando A com B')
     return a+b
 ```
+
+## Task List 
+
+- [x] Tarefa 1 - Concluída.
+- [] Tarefa 2 - A fazer.
+* [x] Tarefa 3 - Concluída.
+4. [] Tarefa 4 - No aguardo da tarefa 2.
 
 ##### Outro Título - h6
 
