@@ -67,9 +67,9 @@ def soma(a,b):
 ## Task List 
 
 - [x] Tarefa 1 
-- [] Tarefa 2
+- [ ] Tarefa 2
 - [x] Tarefa 3
-- [] Tarefa 4
+- [ ] Tarefa 4
 
 ##### Outro Título - h6
 
