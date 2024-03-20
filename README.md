@@ -50,9 +50,19 @@ Imagem externa é quando você pega um link da internet.
 * [https://youtube.com](https://youtube.com)
 * Perfil: https://github.com/GuiMelo012x
 
-## Inserindo Imagens com Links
+### Inserindo Imagens com Links
+
+Clique na imagem e vá para o site do Letterboxd.
 
 [![Logo do Letterbox](https://a.ltrbxd.com/logos/letterboxd-mac-icon.png)](https://letterboxd.com)
+
+## Códigos
+### Código Hello World
+```python
+def soma(a,b):
+    print('Esta função está somando A com B')
+    return a+b
+```
 
 ##### Outro Título - h6
 
