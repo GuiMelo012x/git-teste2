@@ -9,7 +9,9 @@ Nesta seção, estarei escrevendo para testar como utilizar e formatar markdown,
 
 Aqui, duas "#" significa que é como se fosse um h2.
 **Este texto está em negrito**
+
 *Este texto está em itálico*
+
 _Apenas **esta parte do texto está combinado**. Esta está apenas em itálico._
 
 ##### Outro Título - h6
