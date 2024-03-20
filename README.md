@@ -46,9 +46,9 @@ Imagem externa é quando você pega um link da internet.
 
 ## Links
 
-* [Google](https://google.com)
+* [Clique aqui e vá para o Google](https://google.com)
 * [https://youtube.com](https://youtube.com)
-
+* Perfil: https://github.com/GuiMelo012x
 
 
 ##### Outro Título - h6
