@@ -31,8 +31,17 @@ Lista Ordenada:
 
 ## Testando Imagens
 
+#### Imagem Local
+
+Imagem local seria quando você tem o arquivo dentro de uma pasta no seu repositório.
+
 ![Imagem de um Cachorro](img/Kisuq.jpg)
 
+#### Imagem Externa
+
+Imagem externa seria quando você pega um link da internet.
+
+![Foto de um gatinho vestido de Goku](https://img.ws.mms.shopee.com.br/1d4e1b6e47bf91314734d31d9849a06c)
 
 ##### Outro Título - h6
 
